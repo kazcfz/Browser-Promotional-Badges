@@ -17,6 +17,7 @@ A collection of browser promotional badges including "Available in the Chrome We
 
 ### Microsoft
 <p align="left">
+  <img src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Microsoft/Edge%20Add-ons/English_Get%20it%20from%20Microsoft%20Edge.png" height="60px">
   <img src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Microsoft/Get%20it%20from%20Microsoft.svg" height="60px">
   <img src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Microsoft/Windows%2010/Get%20it%20on%20Windows%2010.svg" height="60px">
 </p>
